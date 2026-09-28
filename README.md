@@ -1,4 +1,4 @@
-# James Barton
+# James
 
 Developer interested in building things and learning how they work.
 
