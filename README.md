@@ -1,16 +1,15 @@
-## Hi there 👋
+# James Barton
 
-<!--
-**JamxsBart/JamxsBart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer interested in building things and learning how they work.
 
-Here are some ideas to get you started:
+### Languages & tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C++ · Python · Java · HTML · CSS · Git
+
+### Currently
+
+Working on projects, experimenting with different technologies, and improving as I go.
+
+### GitHub
+
+A collection of things I've built, worked on, or wanted to try.
